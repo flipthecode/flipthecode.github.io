@@ -1,0 +1,13 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               'Flip the code'
+tagline:             "A coder's Blog"
+description:         'A blog about code'
+baseurl:             http://flipthecode.github.io
+
+# Custom vars
+version:             1.0.0
